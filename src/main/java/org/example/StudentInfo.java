@@ -12,6 +12,38 @@ public class StudentInfo {
         //isActive    boolean    tələbənin aktiv olub-olmaması
         //averageScore    float    orta balı(Məsələn: 87.2)
 
+//        int secim = 4;
+//switch (secim) {
+//         case 1:
+//               System.out.println("1");
+//               case 2:
+////                System.out.println("2");
+////
+////            case 3:
+////                System.out.println("3");
+////
+////            case 4:
+////                System.out.println("4");
+////            case 5:
+////                System.out.println("5");
+        int secim = 2; // Deyək ki, seçimimiz 2-dir
+
+        switch (secim) {
+            case 1:
+                System.out.println("1");
+            case 2:
+                System.out.println("2");
+            case 3:
+                System.out.println("3");
+            case 4:
+                System.out.println("4");
+            case 5:
+                System.out.println("5");
+            default:
+                System.out.println("Default");
+        }
+
+
         String name="Əli";
         byte age=21;
         char grade='F';
