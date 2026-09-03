@@ -38,7 +38,7 @@ public class test {
         isEmpty() true ya da false stringin bos ya da dolu oldugunu gosterir
         isBlank() bosluqda da true qaytarir
         join() birlesdirir amma araya simvol ata bilir
-        lengthx() sayini verir index mentiqi deyil
+        length() sayini verir index mentiqi deyil
         replace() evez edir
         split() cumlemizi dediyimiz simvola gore bolur ve arraya yigir
         startwith()
